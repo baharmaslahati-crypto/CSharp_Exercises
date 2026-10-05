@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="Student .cs" />
+    <None Include="Student.cs" />
   </ItemGroup>
 
 </Project>
